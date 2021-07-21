@@ -1,1 +1,1 @@
-# https://luismiguelvegacartolin.github.io
+# luismiguelvegacartolin.github.io
